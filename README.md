@@ -14,3 +14,5 @@ Jacard Index: 0.58
 Multiclass Image Segmentation(No fire, small fire, large fire)
 ![Alt text](https://github.com/kevhainfo/VYPREarth/blob/94c138d1abd2e95da5b42a032de7e6f506345642/Screen%20Shot%202023-07-08%20at%208.31.06%20PM.png)
 
+Jacard Index: 0.85
+
