@@ -1,11 +1,9 @@
 # VYPREarth
 
-We have the Dataset(DATASET)
-
 The VYPR Club's PlanetEarth Project Repository
 Current Project: Wildfire Prediction
 
-We're using UNET++ with the Seasfire Cube to make a Wildfire Prediction Application
+I used UNET++ (a neural network architecture often used for biomedical image segmentation) along with the Seasfire Cube dataset to make a Wildfire Prediction Application
 Yellow means higher probability of that pixel being the predicted class, and blue being a lower probability
 
 
