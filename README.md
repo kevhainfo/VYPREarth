@@ -3,8 +3,11 @@
 The VYPR Club's PlanetEarth Project Repository
 Current Project: Wildfire Prediction
 
+The Code for the project is located in the UNETWILDFIREMULTICLASS jupyter notebook.
+
 I used UNET++ (a neural network architecture often used for biomedical image segmentation) along with the Seasfire Cube dataset to make a Wildfire Prediction Application.
 Yellow means a higher probability of that pixel being the predicted class, and blue means a lower probability.
+
 
 
 ![Alt text](https://github.com/kevhainfo/VYPREarth/blob/5aea56980aaf6b8000ddc2909ddd5d0e59aaeaca/Screen%20Shot%202023-07-06%20at%2010.03.10%20AM.png)
